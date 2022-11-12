@@ -1,4 +1,4 @@
-# quiz
+# quiz app
 
 Quiz app with instant feedback 
 
